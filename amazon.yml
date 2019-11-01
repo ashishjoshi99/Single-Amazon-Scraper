@@ -1,0 +1,6 @@
+name:
+    css: 'h1.a-size-large span.a-size-large'
+    type: Text
+price:
+    css: 'td.a-span12 span.a-size-medium.a-color-price'
+    type: Text
